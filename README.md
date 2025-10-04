@@ -1,0 +1,2 @@
+# zama-test
+zama testnet
